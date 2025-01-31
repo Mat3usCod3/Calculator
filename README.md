@@ -1,4 +1,4 @@
-# 🧮 Calculator | let's calculate???
+# Calculator
 
 Calculator with Javascript, HTML, CSS.
 
